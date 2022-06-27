@@ -1,6 +1,8 @@
 elaborato
 papers
-
+__pycache__
+.idea
+venv
 images
 
 
@@ -31,3 +33,5 @@ src/verbalization_tool/drugbank_parameters/LOCK_objects_tl.txt
 src/verbalization_tool/drugbank_parameters/LOCK_predicates_tl.txt
 
 main_nt_*
+
+full_dataset_xml-rdf.rar
